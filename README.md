@@ -16,3 +16,5 @@ The application Communicate between 3 microservices with Micronaut declarative H
 
 ![Char](/char.png)
 
+![char](/Working.png)
+
