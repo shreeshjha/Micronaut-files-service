@@ -35,7 +35,7 @@
 </td>
 
 <td> 
-    <img src="https://avatars.githubusercontent.com/u/71398066?v=4"/width="250" height="250"/>
+    <img src="consul.png"/width="250" height="250"/>
   
   Micronaut microservices are registered with Consul.
 
