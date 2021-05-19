@@ -1,9 +1,9 @@
 #tag::mn[]
 micronaut:
   application:
-    name: filehatch # <1>
+    name: files # <1>
   server:
-    port: 8080 # <2>
+    port: 8081 # <2>
 #end::mn[]
 #tag::consul[]
 consul:
