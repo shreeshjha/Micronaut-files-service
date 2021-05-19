@@ -2,13 +2,52 @@
  
 ## Application consist several microservices:
 
-A files microservice; developed in Groovy.
+<table>
+<tr>
+<td>
+      <img src="groovy.png"/width="250" height="250"/>
+  
+  A Files Microservice, developed in Groovy.
 
-An file directory  microservice; developed in Kotlin.
+<p align="center">
 
-A file hatch microservice; written in Java.
+</p>
+</td>
 
-Micronaut microservices are registered with Consul.
+<td>
+     <img src="kotlin.png"/width="250" height="250"/>
+  
+  An file directory  microservice; developed in Kotlin.
+<p align="center">
+
+</p>
+</td>
+
+<td>
+    <img src="java.png"/width="250" height="250"/>
+  
+  
+   A file hatch microservice; written in Java.
+   
+<p align="center">
+
+</p>
+</td>
+
+<td> 
+    <img src="consul.png"/width="250" height="250"/>
+  
+  Micronaut microservices are registered with Consul.
+
+<p align="center">
+
+</p>
+</td>
+
+<td>
+</tr>
+</table>
+
 
 ## Function of files-service
 
