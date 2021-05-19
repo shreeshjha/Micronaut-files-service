@@ -4,15 +4,6 @@
 
 <table>
 <tr>
-<td>
-      <img src="groovy.png"/width="250" height="250"/>
-  
-  A Files Microservice, developed in Groovy.
-
-<p align="center">
-
-</p>
-</td>
 
 <td>
      <img src="kotlin.png"/width="250" height="250"/>
