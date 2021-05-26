@@ -8,7 +8,7 @@
 <td>
      <img src="kotlin.png"/width="250" height="250"/>
   
-  An file directory  microservice; developed in Kotlin.
+  An file microservice; developed in Kotlin.
 <p align="center">
 
 </p>
@@ -18,7 +18,7 @@
     <img src="java.png"/width="250" height="250"/>
   
   
-   A file hatch microservice; written in Java.
+   A file hatch microservice; written in Java as well as in kotlin.
    
 <p align="center">
 
